@@ -10,7 +10,7 @@ CW20 is a specification for fungible tokens based on CosmWasm. The name and desi
 
 ## JunoTools and CW20
 
-JunoToools provides an easy-to-use interface for interacting with CW20 tokens without coding.
+JunoTools provides an easy-to-use interface for interacting with CW20 tokens without coding.
 
 Using JunoTools you can:
 - instantiate,
